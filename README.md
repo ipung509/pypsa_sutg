@@ -10,8 +10,8 @@ SPDX-License-Identifier: MIT
 </picture>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/logo.png">
-  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/logo.png">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/logo.png">
 </picture>
 
 # PyPSA SUTG
@@ -95,6 +95,11 @@ pip install gurobipy
 ---
 
 ## Eksekusi Lokal Menggunakan Anaconda dan Spyder
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/spyder.png">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/spyder.png">
+</picture>
 
 ### 1. Download Repository
 
@@ -230,6 +235,21 @@ Apabila simulasi berhasil, Console Spyder akan menampilkan:
 * Renewable energy curtailment (jika dimodelkan)
 
 ---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/dispatch.png">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/dispatch.png">
+</picture>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/dispatch2.png">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/dispatch2.png">
+</picture>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/transfer.png">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/transfer.png">
+</picture>
 
 ## Format Data Input
 

@@ -16,7 +16,7 @@ SPDX-License-Identifier: MIT
 
 # PyPSA SUTG
 
-Model simulasi sistem tenaga listrik menggunakan PyPSA untuk analisis operasi sistem, aliran daya (*power flow*), dan evaluasi pembangkitan pada Sistem Sulawesi Utara dan Gorontalo (SUTG).
+Model simulasi sistem tenaga listrik menggunakan PyPSA untuk economic dispatch, unit commitmend, analisis operasi sistem, aliran daya (*power flow*), dan evaluasi pembangkitan pada Sistem Sulawesi Utara dan Gorontalo (SUTG).
 
 ---
 

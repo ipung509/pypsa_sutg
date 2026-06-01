@@ -10,8 +10,8 @@ SPDX-License-Identifier: MIT
 </picture>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1zQ7F3puxbMq5dxSf8Scmn6sJT9xgTfNZ/view?usp=sharing">
-  <img alt="PyPSA Banner" src="https://drive.google.com/file/d/1zQ7F3puxbMq5dxSf8Scmn6sJT9xgTfNZ/view?usp=sharing">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/logo.png" width="500">
+  <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/ipung509/pypsa_sutg/main/images/logo.png" width="500">
 </picture>
 
 # PyPSA SUTG

@@ -1,4 +1,3 @@
-# pypsa_sutg
 <!--
 SPDX-FileCopyrightText: PyPSA Contributors
 

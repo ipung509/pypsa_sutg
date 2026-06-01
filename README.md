@@ -9,6 +9,11 @@ SPDX-License-Identifier: MIT
   <img alt="PyPSA Banner" src="https://raw.githubusercontent.com/PyPSA/PyPSA/refs/heads/master/docs/assets/logo/logo-primary-light.svg">
 </picture>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1zQ7F3puxbMq5dxSf8Scmn6sJT9xgTfNZ/view?usp=sharing">
+  <img alt="PyPSA Banner" src="https://drive.google.com/file/d/1zQ7F3puxbMq5dxSf8Scmn6sJT9xgTfNZ/view?usp=sharing">
+</picture>
+
 # PyPSA SUTG
 
 Model simulasi sistem tenaga listrik menggunakan PyPSA untuk analisis operasi sistem, aliran daya (*power flow*), dan evaluasi pembangkitan pada Sistem Sulawesi Utara dan Gorontalo (SUTG).
